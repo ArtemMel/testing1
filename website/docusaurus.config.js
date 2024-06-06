@@ -4,7 +4,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
 const themeConfig = {
   navbar: {
-    title: 'Tailchat',
+    title: 'OMLOOK',
     logo: {
       alt: 'Tailchat Logo',
       src: 'img/logo.svg',
@@ -95,7 +95,7 @@ const presetClassicOptions = {
   docs: {
     sidebarPath: require.resolve('./sidebars.js'),
     // Please change this to your repo.
-    editUrl: 'https://github.com/msgbyte/tailchat/edit/master/website/',
+    editUrl: 'https://github.com/cyberbabka3000/testing1',
   },
   blog: {
     postsPerPage: 5,
@@ -116,8 +116,8 @@ module.exports = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/logo.svg',
-  organizationName: 'msgbyte', // Usually your GitHub org/user name.
-  projectName: 'tailchat', // Usually your repo name.
+  organizationName: 'cyberbabka3000',
+  projectName: 'testing2',
   themeConfig,
   i18n: {
     defaultLocale: 'en',
